@@ -1,3 +1,21 @@
+npm create vite
+project name:...noteapp
+framework:react
+variant:javascript
+Run:
+cd noteapp
+npm install
+after this 
+npm run dev 
+runs on local:http://localhost:5173/
+hosted on:vercel.com
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
