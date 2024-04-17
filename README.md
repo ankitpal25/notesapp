@@ -1,14 +1,22 @@
 npm create vite
+
 project name:...noteapp
+
 framework:react
+
 variant:javascript
+
 Run:
+
 cd noteapp
+
 npm install
 after this 
 npm run dev 
 runs on local:http://localhost:5173/
 hosted on:vercel.com
+
+project link:https://notesapp-ten-kappa.vercel.app/
 
 
 
